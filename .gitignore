@@ -1,0 +1,6 @@
+bin/
+obj/
+Properties/
+librarydatabase.db
+App.config
+libraryvdatabase.csproj
